@@ -1,6 +1,6 @@
-# myapp
+# Aplicación de mensajeria en Flutter
 
-A new Flutter project.
+
 
 ## Getting Started
 
